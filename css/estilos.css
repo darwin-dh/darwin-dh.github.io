@@ -1,4 +1,4 @@
-footer{
+footer {
     clear: both;
 }
 
@@ -53,4 +53,42 @@ footer .social a.twitter {
 
 footer .social a.youtube {
     background: #cd201f;
+}
+
+header .logo {
+    padding-top: 1.25em;
+    padding-bottom: 1.25em;
+}
+
+header .logo a {
+    display: inline-block;
+}
+
+header .redes-sociales {
+    text-align: right;
+    line-height: 5em;
+}
+
+header .redes-sociales a {
+    border-radius: 50%;
+    width: 2.5em;
+    height: 2.5em;
+    text-align: center;
+    line-height: 2.5em;
+    display: inline-block;
+    background: navy;
+    color: #fff;
+    margin-left: 1.25em;
+}
+
+header .redes-sociales a.youtube {
+    background: #c05554;
+}
+
+header .redes-sociales a.facebook {
+    background: #3b5998;
+}
+
+header .redes-sociales a.twitter {
+    background: #55acee;
 }
