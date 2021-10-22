@@ -40,7 +40,7 @@ module.exports = {
     ],
     sidebar: [
       '/',
-      '/01-Html-Básico/'
+      '/01-Html-Basico/'
     ]
   },
   plugins: [
