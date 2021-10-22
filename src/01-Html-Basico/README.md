@@ -1,4 +1,4 @@
-#  Html Básico
+#  Html Basico
 ## Qué es html
 #### Definición
  HTML es un lenguaje de marcado o etiquetas,siglas en inglés de HyperText Markup Language
