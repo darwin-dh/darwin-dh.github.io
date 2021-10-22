@@ -1,6 +1,6 @@
 module.exports = {
   dest:'docs',
-  base:'/Docs-Dh-WeB/',
+  base:'/darwin-dh.github.io/',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
